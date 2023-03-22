@@ -1,0 +1,18 @@
+p {
+    font-size: 24px;
+    background-color: green;
+}
+.conteiner {
+    margin: 20px;
+    margin-top: 50px;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(248, 231, 231);
+}
+.main {
+    text-align: center;
+}
+
+.conteiner>img {
+    width: 500px;
+}
